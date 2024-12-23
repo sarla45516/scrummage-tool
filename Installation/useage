@@ -1,3 +1,0 @@
-Run the container and take note of the admin password. (This password is randomly and automatically generated in a secure manner, it is only displayed on the first run of the container, after which is detroyed for obvious security reasons). This password can be changed via the settings page after logging in, but this step is not required.
-
-sudo docker run -p 5000:5000 ghcr.io/matamorphosis/scrummage:latest
